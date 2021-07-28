@@ -1,0 +1,16 @@
+.category-card-container {
+    .card-item {
+        background: #1e1e1e url(/assets/placeholder.png) no-repeat center center;
+        height: 190px;
+        width: 130px; 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 27px;
+        color: #FFF;
+    }
+
+    .title {  
+        margin-top: 10px;
+    }
+}

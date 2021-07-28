@@ -1,0 +1,16 @@
+.item-card-container {
+    .card-item {
+        background: #1e1e1e no-repeat center center;
+        background-size: cover;
+        height: 190px;
+        width: 130px; 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #FFF;
+    }
+
+    .title {  
+        margin-top: 10px;
+    }
+}
